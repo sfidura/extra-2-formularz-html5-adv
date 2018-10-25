@@ -1,0 +1,9 @@
+#myForm{
+    width: 60%;
+    min-width: 300px;
+    max-width: 600px;
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -20%);
+}
